@@ -10,7 +10,7 @@
   <p>I'm a Full Stack Web Developer from Bangladesh, dedicated to learning and improving my skills. I code 5-6 hours daily and enjoy exploring new languages and technologies.</p>
 </div>
 
-    ## :chart_with_upwards_trend: Current Stats
+  ## :chart_with_upwards_trend: Current Stats
 
 <br />
 <p align="center">
