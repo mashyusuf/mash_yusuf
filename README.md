@@ -1,4 +1,4 @@
-<h1 align="center">Hiee 🖐️ 🌐💻 Let's build something amazing together!</h1>
+<h1 align="center">Hiee 🖐️ 🌐💻 Let's build something amazing together! Iam MD Yusuf</h1>
 <h3 align="center">Full Stack Web Developer from Bangladesh , weaving beauty and simplicity into the web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashyusuf&label=Profile%20views&color=0e75b6&style=flat" alt="mashyusuf" /> </p>
@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@yusuf_mash2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yusuf_mash2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md. yusuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. yusuf" height="30" width="40" /></a>
-<a href="https://fb.com/mash yusuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mash yusuf" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mash_yusuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mash_yusuf" height="30" width="40" /></a>
+<a href="https://fb.com/mash.yusuf.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mash.yusuf.5" height="30" width="40" /></a>
 <a href="https://instagram.com/fake_yusufx02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fake_yusufx02" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yusan_ff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yusan_ff" height="30" width="40" /></a>
 </p>
@@ -34,4 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashyusuf&show_icons=true&locale=en" alt="mashyusuf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashyusuf&" alt="mashyusuf" /></p>
+
 
