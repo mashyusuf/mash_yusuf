@@ -2,7 +2,10 @@
 <h3 align="center">Full Stack Web Developer from Bangladesh, weaving beauty and simplicity into the web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashyusuf&label=Profile%20views&color=0e75b6&style=flat" alt="mashyusuf" /> </p>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /><div align="center">
+  <h2>About Me</h2>
+  <p>I'm a Full Stack Web Developer from Bangladesh, dedicated to learning and improving my skills. I code 5-6 hours daily and enjoy exploring new languages and technologies.</p>
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mashyusuf" alt="mashyusuf" /></a> </p>
 
