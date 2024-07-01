@@ -10,10 +10,11 @@
   <p>I'm a Full Stack Web Developer from Bangladesh, dedicated to learning and improving my skills. I code 5-6 hours daily and enjoy exploring new languages and technologies.</p>
 </div>
 
-## :chart_with_upwards_trend: Current Stats
+    ## :chart_with_upwards_trend: Current Stats
 
+<br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mashyusuf&theme=react&hide_border=true&background=0D1117&stroke=000000&fire=EA61F7&sideLabels=00ACEE&currStreakNum=EA61F7&ring=EA61F7&currStreakLabel=EA61F7&sideNums=00ACEE" />
 </p>
 
 <div align="center">
